@@ -1,10 +1,10 @@
-# Ferdnyc Homebrew_1015
+# Ferdnyc Homebrew
 
 ## How do I install these formulae?
 
-`brew install ferdnyc/homebrew_1015/<formula>`
+`brew install ferdnyc/homebrew-tap/<formula>`
 
-Or `brew tap ferdnyc/homebrew_1015` and then `brew install <formula>`.
+Or `brew tap ferdnyc/homebrew-tap` and then `brew install <formula>`.
 
 ## Documentation
 
